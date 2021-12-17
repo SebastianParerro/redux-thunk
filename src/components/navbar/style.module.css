@@ -1,0 +1,17 @@
+.navbar {
+  display: flex;
+  padding: 20px;
+  background-color: rgb(13, 26, 39);
+}
+
+.menuItem {
+  margin-right: 25px;
+  color: #fff;
+  font-size: 18px;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.menuItem:hover {
+  text-decoration: underline;
+}
